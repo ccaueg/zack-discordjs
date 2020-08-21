@@ -1,0 +1,4 @@
+exports.token = 'Njk2MTc5OTcxMjAyNDgyMjI4.Xok-Hw.-ojEZH0XY07VgSuTYrpUaemqk38';
+exports.owners = ['406577370498334721', '658182238357159936'];
+exports.especials = ['406577370498334721', '658182238357159936', '592507144150974493', '329600900609867788'];
+exports.prefix = 'z!'
